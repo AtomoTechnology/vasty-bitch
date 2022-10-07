@@ -1,1 +1,1 @@
-let vasty = 'boluda';
+let vasty = 'bitch';
